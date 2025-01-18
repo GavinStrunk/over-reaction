@@ -25,6 +25,9 @@ npm install
 npm run dev
 ```
 
+## Deploy an App
+I'm testing out Vercel for front-end deployment and Render for backend deployment.
+
 ## References
 [1] https://medium.com/@bthncm/getting-started-with-typescript-a-comprehensive-guide-for-beginners-7a4969b6679c
 [2] https://www.youtube.com/watch?v=61v23Ce5SXA&ab_channel=DaveGray
